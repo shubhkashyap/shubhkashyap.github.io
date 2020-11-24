@@ -1,0 +1,44 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: right;
+}
+
+li .active {
+    float: left;
+}
+
+li a {
+    font-size: 18px;
+    display: block;
+    color: rgb(100, 100, 100);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+a:hover {
+    color: skyblue;
+}
+
+.div1{
+    text-align: center;
+    background-color : rgb(28, 162, 250);
+    color : whitesmoke;
+
+}
+.div1 h1{
+    font-size: 50px;
+    padding-top: 20px;
+}
+.div1 p{
+    font-size : 20px;
+}
+
