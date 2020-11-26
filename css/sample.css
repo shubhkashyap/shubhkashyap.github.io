@@ -1,0 +1,37 @@
+.story-boxes > div {
+    border: 0px dashed red;
+    width: 30%;
+    margin: 1.5%;
+    float:right;
+  /*   border: 1px solid red; */
+  }
+  
+  .story-box > img {
+    max-width:100%;
+  }
+  
+  .story-box > p {
+    text-align: center;
+    padding: 6px 20px;
+  }
+  
+  .box > div {
+    width: 25%;
+    background:green;
+    height: 40px;
+    float: right;
+  }
+  .container {
+    max-width: 1200px;
+    text-align: center;
+    font-size: 30px;    
+}
+.col {
+    width: 10%;
+    margin: 1%;
+    text-align: center;
+    float:left;
+}
+.img-box {
+    background-color: white;
+}
